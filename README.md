@@ -1,4 +1,4 @@
-# Random Message generator
+# Random Message Generator
 ## Introduction
 This is a Code Academy training project, where I had to create a javascript that would randomly print out a message as output.
 The message consists of a motivational qoute, a lucky colour and what cuisine the user can try for the day.
