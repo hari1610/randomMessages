@@ -23,4 +23,26 @@ function printMessage(data){
 
 }
 
+function asciiSmile(){
+    console.log('|--|                 |--|   ----------------------------')
+    console.log('|--|                 |--|  |                            |')
+    console.log('|--|                 |--|   ------------    ------------')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|-----------------|--|               |  |')
+    console.log('|--|-----------------|--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|               |  |')
+    console.log('|--|                 |--|   ------------    ------------')
+    console.log('|--|                 |--|  |                            |')
+    console.log('|--|                 |--|   ----------------------------')
+    console.log('\n')
+    console.log('\n')
+}
+asciiSmile()
 printMessage(allData)
+
